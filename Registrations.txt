@@ -1,0 +1,2 @@
+            <a href="https://www.thecloudnautic.com/assets/img/udyam.jpg" class="btn-learn-more">Udyam Registration Certificate | Government of India<br> <br>(Micro Enterprise, Computer Programming, IT, Computer Service, Consultancy and related Activities, Architecture and Engineering Activities and related Technical Consultancy)</a>
+            <a href="https://www.thecloudnautic.com/assets/img/shopact.jpg" class="btn-learn-more">Shop & Establishment Registration Certificate | Government of Maharashtra<br> <br> (IT Software Development Office)</a>

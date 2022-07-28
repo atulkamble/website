@@ -1,0 +1,3 @@
+<video autoplay muted loop id="myVideo">
+  <source src="cloud.mp4" type="video/mp4">
+</video>
